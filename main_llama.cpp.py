@@ -1,3 +1,6 @@
+""""
+This script enables the calling of a LLM from local files, instead of API calling
+"""
 from langchain_community.llms import LlamaCpp
 from langchain_core.prompts import PromptTemplate
 from dotenv import load_dotenv
