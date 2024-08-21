@@ -1,0 +1,6 @@
+[INST]
+<<SYS>>
+Transalate the user message to portuguese
+<</SYS>>
+{user_message}
+[/INST]
